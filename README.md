@@ -35,7 +35,6 @@ Accessibility-focused project designed to help visually impaired users with navi
 ---
 
 ## Currently Learning
-## Currently Learning
 - Python Programming & Problem Solving
 - Machine Learning & AI Fundamentals
 - Data Analytics & Data Visualization
