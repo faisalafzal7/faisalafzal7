@@ -2,7 +2,7 @@
 
 ## About Me
 - 🎓 IT Student
-- 🌱 Exploring AI/ML & Web Development
+- 🌱 Exploring AI/ML & Cyber Security
 - 👨‍🏫 GSSOC Mentor
 - 🚀 Community Leader at Internova
 - 💡 Interested in building real-world tech projects
