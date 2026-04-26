@@ -7,6 +7,9 @@
 - 🚀 Community Leader at Internova
 - 💡 Interested in building real-world tech projects
 
+## LinkedIn 
+https://www.linkedin.com/in/faisalafzal07/
+
 ---
 
 ## Projects
